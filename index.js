@@ -4,8 +4,6 @@ const fs = require('fs');
 const processName = "Titanfall2.exe";
 //const processName = "r5apex.exe";
 
-const htmlCode = fs.readFileSync("disp.html", "utf8");
-
 // WEB SERVER
 var server=http.createServer(function(request,response){
   response.writeHead(200, {"Content-Type": "text/html"});
