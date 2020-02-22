@@ -1,0 +1,17 @@
+{
+  "name": "tf2-speedometer",
+  "version": "1.0.0",
+  "description": "Show the pilot speed in OBS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mod"
+  ],
+  "author": "Tristan Kennedy",
+  "license": "MIT",
+  "dependencies": {
+    "memoryjs": "^3.2.3"
+  }
+}
