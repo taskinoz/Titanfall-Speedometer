@@ -3,6 +3,8 @@ Creating a speedometer by reading the velocity of the player from game memory
 
 ## Requirements
 Node 8.17.0 (memoryjs seems to only work on this one)
+Python 3.7
+Visual Studio 2017
 Titanfall 2
 OBS/Browser
 
